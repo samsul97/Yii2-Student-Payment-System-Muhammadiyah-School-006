@@ -1,0 +1,14 @@
+# Yii2 advanced template
+/.vscode/
+/assets/
+/backend/assets/
+/backend/images/upload/
+/vendor/
+/*.env
+/.env
+/.env.local
+/.idea/
+/.DS_Store
+composer.lock
+npm-debug.log
+yarn-error.log
